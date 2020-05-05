@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pmod_audio)(type KiCad)(uri ${KIPRJMOD}/pmod_audio.pretty)(options "")(descr ""))
+)
